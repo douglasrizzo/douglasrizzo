@@ -6,4 +6,4 @@ Let's partake in some open source collaboration. To find out more about me, chec
 
 Currently working on my PhD in Artificial Intelligence.
 
-![douglasrizzo's Github stats](https://github-readme-stats.vercel.app/api?username=douglasrizzo&count_private=true)
+![douglasrizzo's Github stats](https://github-readme-stats.vercel.app/api?username=douglasrizzo&count_private=true&theme=merko)
